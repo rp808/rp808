@@ -26,7 +26,10 @@ My skill set encompasses a wide array of areas, including:
 I am a Certified Scrum Master (CSM) and have completed Google's UX Design specialization on Coursera, among other certifications.
 
 
+## 📧 Contact Me
 
+- **Email:** romipatel808@gmail.com
+- 
 <!--
 **rp808/rp808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
