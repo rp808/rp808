@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about creating delightful user expe
 
 ## Quote
 
-"It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - Charles Darwin
+> "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change." - Charles Darwin
 
 ## Let's Connect!
 
