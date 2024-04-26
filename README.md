@@ -6,6 +6,9 @@
 Welcome to my GitHub repository! I'm Romi Patel, a passionate UX Designer based in Mississauga, ON, Canada.
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+
 
 <!--
 **rp808/rp808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
